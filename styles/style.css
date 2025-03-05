@@ -17,7 +17,7 @@ ul {
 .nav-list {
     padding-bottom: 5px;
   display: flex;
-  font-family: Raleway;
+  font-family: 'Raleway', 'sans-serif';
   font-weight: 400;
   font-size: 18px;
   line-height: 21px;
@@ -38,7 +38,7 @@ ul {
   width: 240px;
   font-style: normal;
   justify-self: end;
-  font-family: "Raleway", "sans-serif";
+  font-family: 'Raleway', 'sans-serif';
   font-weight: 400;
   font-size: 18px;
   line-height: 24px;
@@ -70,7 +70,7 @@ ul {
   width: 1000px;
   height: 385px;
   color: white;
-  font-family: "Raleway", "sans-serif";
+  font-family: 'Raleway', 'sans-serif';
   font-weight: 700;
   font-size: 100px;
   line-height: 135px;
@@ -98,7 +98,7 @@ ul {
 
 .cover-description {
   text-transform: uppercase;
-  font-family: "Raleway";
+  font-family: 'Raleway', 'sans-serif';
   font-weight: 400;
   font-size: 22px;
   line-height: 28px;
@@ -109,7 +109,7 @@ ul {
 .cover-button {
   width: 256px;
   height: 51px;
-  font-family: "Raleway";
+  font-family: 'Raleway', 'sans-serif';
   text-transform: uppercase;
   color: white;
   font-weight: 500;
@@ -128,7 +128,7 @@ ul {
 }
 
 .title-second {
-  font-family: "Raleway";
+  font-family: 'Raleway', 'sans-serif';
   font-weight: 700;
   font-size: 40px;
   line-height: 47px;
@@ -167,7 +167,7 @@ ul {
 .lots-article-title {
   color: white;
   text-transform: uppercase;
-  font-family: Raleway;
+  font-family: 'Raleway', 'sans-serif';
   font-weight: 700;
   font-size: 22px;
   line-height: 26px;
@@ -176,7 +176,7 @@ ul {
 
 .lots-article-description {
   color: white;
-  font-family: Raleway;
+  font-family: 'Raleway', 'sans-serif';
   font-weight: 400;
   font-size: 20px;
   line-height: 24px;
@@ -189,7 +189,7 @@ ul {
 
 .lots-link {
   margin-left: 40px;
-  font-family: "Raleway";
+  font-family: 'Raleway', 'sans-serif';
   font-weight: 400;
   font-size: 20px;
   line-height: 24px;
@@ -234,7 +234,7 @@ ul {
 
 .about-description {
   margin-right: 5px;
-  font-family: "Raleway";
+  font-family: 'Raleway', 'sans-serif';
   font-weight: 400;
   font-size: 20px;
   line-height: 24px;
@@ -259,7 +259,7 @@ ul {
 
 .footer-nav-list {
     padding-left: 5px;
-  font-family: "Raleway";
+  font-family: 'Raleway', 'sans-serif';
   font-weight: 400;
   font-size: 18px;
   line-height: 21px;
@@ -276,7 +276,7 @@ ul {
 
 .footer-address {
     font-style: normal;
-  font-family: "Raleway";
+  font-family: 'Raleway', 'sans-serif';
   font-weight: 400;
   font-size: 18px;
   line-height: 24px;
