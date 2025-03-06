@@ -7,8 +7,7 @@ ul {
 /* header */
 
 .header {
-  min-height: 293px;
-  padding: 0 50px;
+  padding: 92px 50px;
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
@@ -69,7 +68,6 @@ ul {
 
 .title-page {
   width: 1000px;
-  min-height: 385px;
   color: white;
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
@@ -79,14 +77,14 @@ ul {
   text-transform: uppercase;
   display: flex;
   flex-direction: column;
-  margin-bottom: 95px;
+  margin-bottom: 96px;
 }
 
-.title-page-you {
+.title-page-center {
   padding-left: 330px;
 }
 
-.title-page-need {
+.title-page-end {
   align-self: flex-end;
   margin-right: -0.3em;
 }
@@ -147,23 +145,20 @@ ul {
 
 .lots-item-movie {
   background-image: url(../images/card-lot-01.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
 }
 
 .lots-item-book {
   background-image: url(../images/card-lot-02.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
 }
 
 .lots-item-picture {
   background-image: url(../images/card-lot-03.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+}
+
+.lots-item {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 .lots-article {
@@ -268,7 +263,7 @@ ul {
 }
 
 .footer {
-  margin: 0 50px;
+  margin: 0 50px 82px;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
 }
